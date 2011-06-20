@@ -4,6 +4,7 @@ gem 'rails', '3.0.1'
 
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
+# test commit
 
 gem 'sqlite3-ruby', :require => 'sqlite3'
 
